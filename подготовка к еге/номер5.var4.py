@@ -16,7 +16,7 @@ for n in range(1, 1000):
         b = a + m
     r = int(b, 3)
     print(r)
-
+# ответ:1002
 
 
 
